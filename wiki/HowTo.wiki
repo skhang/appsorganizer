@@ -1,3 +1,15 @@
 = How to use Apps Organizer =
-
+Touch an application to choose labels
 http://appsorganizer.googlecode.com/svn/trunk/Wiki/apps.png
+Choose one or more label or create a new one
+http://appsorganizer.googlecode.com/svn/trunk/Wiki/chooseLabels.png
+Touch home screen and select shortcuts
+http://appsorganizer.googlecode.com/svn/trunk/Wiki/addShortcut.png
+Select Apps Organizer
+http://appsorganizer.googlecode.com/svn/trunk/Wiki/addShortcut2.png
+Select a label
+http://appsorganizer.googlecode.com/svn/trunk/Wiki/addShortcut2.png
+A new shortcut has been created on Android home
+http://appsorganizer.googlecode.com/svn/trunk/Wiki/homeShortcut.png
+Click on home shortcut to see apps
+http://appsorganizer.googlecode.com/svn/trunk/Wiki/gridShortcut.png
