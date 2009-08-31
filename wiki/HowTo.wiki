@@ -9,7 +9,7 @@ http://appsorganizer.googlecode.com/svn/trunk/Wiki/chooseLabels.png
 
 Touch home screen and select shortcuts
 
-http://appsorganizer.googlecode.com/svn/trunk/Wiki/addShortcut.png
+http://appsorganizer.googlecode.com/svn/trunk/Wiki/addShortcut.jpg
 
 Select Apps Organizer
 
