@@ -1,1 +1,3 @@
 = How to use Apps Organizer =
+
+http://appsorganizer.googlecode.com/svn/trunk/Wiki/apps.png
