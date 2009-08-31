@@ -23,6 +23,6 @@ A new shortcut has been created on Android home
 
 http://appsorganizer.googlecode.com/svn/trunk/Wiki/homeShortcut.png
 
-Click on home shortcut to see apps
+Touch shortcut to see apps
 
 http://appsorganizer.googlecode.com/svn/trunk/Wiki/gridShortcut.png
