@@ -17,7 +17,7 @@ http://appsorganizer.googlecode.com/svn/trunk/Wiki/addShortcut2.jpg
 
 Select a label
 
-http://appsorganizer.googlecode.com/svn/trunk/Wiki/addShortcut2.jpg
+http://appsorganizer.googlecode.com/svn/trunk/Wiki/addShortcut3.jpg
 
 A new shortcut has been created on Android home
 
